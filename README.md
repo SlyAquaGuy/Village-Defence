@@ -7,3 +7,8 @@ A Pre-Alpha style game used as a litmus test in determining our dev team's inter
 
 
 # Installation Instructions with Unity
+## Prerequisites
+- Unity Install
+- Github Install
+
+1) Join Repository and Clone using Github Desktop

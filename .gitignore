@@ -2,13 +2,13 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/[Ll]ogs/
-/[Mm]emoryCaptures/
+Village Defence/[Ll]ibrary/
+Village Defence/[Tt]emp/
+Village Defence/[Oo]bj/
+Village Defence/[Bb]uild/
+Village Defence/[Bb]uilds/
+Village Defence/[Ll]ogs/
+Village Defence/[Mm]emoryCaptures/
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta

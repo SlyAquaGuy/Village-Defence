@@ -6,4 +6,4 @@ A Pre-Alpha style game used as a litmus test in determining our dev team's inter
 # A Tower Defence Trial
 
 
-# [Click Here](https://github.com/SlyAquaGuy/Village-Defence/wiki) for Installation Instructions with Unity
+# [Click Here](https://github.com/SlyAquaGuy/Village-Defence/wiki/Install-Instructions) for Installation Instructions with Unity
